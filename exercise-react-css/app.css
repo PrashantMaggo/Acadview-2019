@@ -1,0 +1,42 @@
+.App
+{
+    border:1px solid red;
+    position: fixed;
+    top: 100px;
+    left: 590px;
+    width: 300px;
+    height: 75px;
+    padding:25px;
+    color: black;
+    text-align:center;
+    box-shadow:5px 5px 5px yellow;
+}
+.App1
+{
+    border:1px solid red;
+    position: fixed;
+    top: 300px;
+    left: 590px;
+    width: 300px;
+    height: 75px;
+    padding:25px;
+    color: black;
+    text-align:center;
+    box-shadow:5px 5px 5px yellow;
+}
+.App2
+{
+    border:1px solid red;
+    position: fixed;
+    top: 500px;
+    left: 590px;
+    width: 300px;
+    height: 75px;
+    padding:25px;
+    color: black;
+    text-align:center;
+    box-shadow:5px 5px 5px yellow;
+}
+#head{
+    text-align:center;
+}
